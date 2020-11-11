@@ -1,0 +1,7 @@
+define KMACHINE sbc-imx7d
+define KARCH arm
+define KTYPE standard
+
+include ktypes/standard/standard.scc
+
+include sbc-imx7d.scc
